@@ -23,6 +23,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freddyrm&show_icons=true&locale=en" alt="freddyrm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freddyrm&" alt="freddyrm" /></p>
+<br/>
+
+**Languages and Tools**
 
 <br/>
 <div>  
