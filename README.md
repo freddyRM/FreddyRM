@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying on **Udemy**
 
-- 🌱 I’m currently learning **React, Firebase, JavaScript**
+- 🌱 I’m currently learning **Desarrollo web. JavaScript desde cero. Edición 2018-2019**
 
 - 💬 Ask me about **JavaScript**
 
